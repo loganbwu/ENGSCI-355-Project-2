@@ -1,0 +1,6 @@
+{\color{LIME}$\bullet_1$} 1	& O	& O	& O	& O	& O	& A	& A	\\
+{\color{NAVY}$\bullet_1$} 2	& P	& O	& O	& A	& P	& X	& X	\\
+{\color{YELLOW}$\bullet_1$} 3	& O	& O	& O	& O	& A	& P	& X	\\
+{\color{LIME}$\bullet_2$} 4	& A	& P	& A	& P	& O	& X	& X	\\
+{\color{NAVY}$\bullet_2$} 5	& O	& O	& O	& O	& N	& N	& N	\\
+{\color{YELLOW}$\bullet_2$} 6	& NO	& NA	& NP	& NO	& ZO	& ZX	& ZX	\\
